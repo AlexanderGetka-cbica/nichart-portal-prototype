@@ -1,0 +1,26 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cbicanicharthellowor-staging-64632-authRole",
+      "UnauthRoleArn": "arn:aws:iam::317989304869:role/amplify-cbicanicharthellowor-staging-64632-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::317989304869:role/amplify-cbicanicharthellowor-staging-64632-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-cbicanicharthellowor-staging-64632-deployment",
+      "UnauthRoleName": "amplify-cbicanicharthellowor-staging-64632-unauthRole",
+      "StackName": "amplify-cbicanicharthellowor-staging-64632",
+      "StackId": "arn:aws:cloudformation:us-east-1:317989304869:stack/amplify-cbicanicharthellowor-staging-64632/665f2a10-eefe-11ed-ab2b-0e73ef88c279",
+      "AmplifyAppId": "d1gevrhi6fjyqv"
+    },
+    "categories": {
+      "auth": {
+        "cbicanicharthelloworld": {}
+      },
+      "storage": {
+        "cbicanicharthellowor53f2e777": {
+          "bucketName": "cbica-nichart-inputdata",
+          "region": "us-east-1"
+        }
+      }
+    }
+  }
+}
